@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Blog
 
-Things you may want to cover:
+This is a my first Ruby on Rails project. It is a simple blog site that I will hopefully update and add to as part of my learning process.
 
-* Ruby version
+* Ruby version 3.2.2 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
